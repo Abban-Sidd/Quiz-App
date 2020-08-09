@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+}
+
+fieldset{
+    margin: 5px 0px 10px 0px;
+    border-radius: 34px;   
+}
+
+input{
+cursor: pointer;
+}
+
+button{
+   margin-left: 597px;
+    padding: 4px 5px 4px 5px;
+    border-radius: 4px;
+    transition: ease-in 1s;
+    cursor: pointer;
+}
+
+button:hover{   
+   background-color: black;
+   color: white;
+}
